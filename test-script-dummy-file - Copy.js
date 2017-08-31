@@ -1,0 +1,1 @@
+this is test script file - to use with post operation
